@@ -1,1 +1,1 @@
-My solutions to CodingaBat problems.
+My solutions to CodingBat problems.
